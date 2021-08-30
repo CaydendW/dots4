@@ -1,4 +1,4 @@
-# My dots part 3
+# My dots part 4
 
 ## Pictures
 ![alt text](https://github.com/CaydendW/dots4/blob/master/pictures/fullrice.png?raw=true)
